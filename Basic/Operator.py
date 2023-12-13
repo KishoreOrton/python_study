@@ -1,6 +1,6 @@
 # Arithmetic Operators in python
 
-x = 15
+x = 20
 y = 5
 
 print("Addition of 2 numbers", (x + y))
