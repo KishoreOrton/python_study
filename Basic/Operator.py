@@ -1,7 +1,7 @@
 # Arithmetic Operators in python
 
-x = 20
-y = 5
+x = 25
+y = 15
 
 print("Addition of 2 numbers", (x + y))
 print("Subtraction of 2 numbers", (x - y))
