@@ -12,6 +12,8 @@ elif int(age) <= 0 or int(age) > 105:
 else:
     print("Not the age to vote")
 
+print("-------------------------------")
+
 if int(num) % 2 == 0:
     print("Even")
 else:
