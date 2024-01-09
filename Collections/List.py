@@ -45,3 +45,7 @@ print("Remove the last",d)
 d.pop(0)
 print("Remove the specific index",d)
 
+# Copy a list
+List1 = ["apple", "banana", "cherry"]
+List2 = List1.copy()
+print(List2)
