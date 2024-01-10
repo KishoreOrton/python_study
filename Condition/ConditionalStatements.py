@@ -4,7 +4,7 @@ num = input("Enter the num : ")
 # and - Both condition is TRUE
 # OR - Any one condition is TRUE
 
-
+# Right to Vote
 if int(age) >= 18 and int(age) <= 105:
     print("Right to vote")
 elif int(age) <= 0 or int(age) > 105:
@@ -14,6 +14,7 @@ else:
 
 print("-------------------------------")
 
+# Odd or Even
 if int(num) % 2 == 0:
     print("Even")
 else:
