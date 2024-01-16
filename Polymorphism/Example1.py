@@ -3,4 +3,4 @@ def add(x, y, z = 0):
 
 # Driver code
 print(add(5, 3))
-print(add(5, 3, 4))
+print(add(10, 3, 4))
